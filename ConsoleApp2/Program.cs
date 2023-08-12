@@ -2,6 +2,9 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Как тебя зовут? Напиши: ");
+        string input = Console.ReadLine();
+        Console.WriteLine("Привет, " + input);
+
     }
 }
