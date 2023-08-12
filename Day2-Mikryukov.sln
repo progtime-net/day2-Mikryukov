@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.33711.374
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{64F50404-CEAC-4241-97A8-B623E4C3D2B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2-Mikryukov", "ConsoleApp2\Day2-Mikryukov.csproj", "{64F50404-CEAC-4241-97A8-B623E4C3D2B0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{081D4CEF-2F0B-4CEB-963C-D5D3C20466BF}"
 	ProjectSection(SolutionItems) = preProject
